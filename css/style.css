@@ -1,1 +1,31 @@
+/* ===== Global Styles ===== */
+body {
+    background-color: #121416;
+    color: #ddd;
+    font-family: Arial, sans-serif;
+}
 
+.hero-header {
+    background: #0E71B8;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.section-box {
+    background: #1b1d20;
+    padding: 25px;
+    margin-bottom: 20px;
+    border: 1px solid #444;
+    border-radius: 6px;
+}
+
+footer {
+    background: #0b0c0d;
+    padding: 20px;
+    text-align: center;
+    color: #aaa;
+    margin-top: 40px;
+}

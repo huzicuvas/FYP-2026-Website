@@ -6,8 +6,12 @@ body {
 }
 
 .hero-header {
-    background: linear-gradient(135deg, #B983FF, #8E7CFF);
-    color: #ffffff;
+    background: linear-gradient(135deg, 
+        #6EC1E4,  /* soft blue */
+        #7DE2D1,  /* mint green */
+        #B983FF   /* light purple */
+    );
+    color: #0b0c0d;
     padding: 30px;
     text-align: center;
     font-size: 32px;

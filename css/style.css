@@ -14,15 +14,16 @@ body {
     font-weight: bold;
 }
 
-/* Simple navbar link hover */
+/* Navbar links */
 nav a {
-    color: #ddd;
+    color: #cfd6e0;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 12px;
 }
 
+/* Subtle hover */
 nav a:hover {
-    color: #A9C4E8; /* slightly lighter shade */
+    color: #ffffff; /* just a clean brighten */
 }
 
 .section-box {

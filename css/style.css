@@ -6,12 +6,23 @@ body {
 }
 
 .hero-header {
-    background: #0E71B8;
+    background: #1B263B;
     color: #fff;
     padding: 30px;
     text-align: center;
     font-size: 32px;
     font-weight: bold;
+}
+
+/* Simple navbar link hover */
+nav a {
+    color: #ddd;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #A9C4E8; /* slightly lighter shade */
 }
 
 .section-box {
